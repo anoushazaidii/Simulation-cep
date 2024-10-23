@@ -1,0 +1,1 @@
+This project is a simulation of a Single Server Queuing System built using Streamlit for the user interface and NumPy for generating random interarrival and service times. The simulation demonstrates the operation of a single-channel queue, where customers arrive at random intervals and are served one at a time.
